@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1026168242547",
+    "project_id": "healthdiet-245c5",
+    "storage_bucket": "healthdiet-245c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026168242547:android:8204f517bb44de6dc9c506",
+        "android_client_info": {
+          "package_name": "com.example.healthdiet_01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026168242547-v789h8sq3d4814u1liuu952616ecm37e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKt3R_JVfkqSz_dMyXD5cAgmUArYCYNRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026168242547-v789h8sq3d4814u1liuu952616ecm37e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
